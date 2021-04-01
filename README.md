@@ -4,3 +4,5 @@
 ## super dicas do GIT
 
 O Git é um cara bem legal
+
+Aprendendo novos comandos super avançados
